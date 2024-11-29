@@ -34,5 +34,14 @@ Step 12: Evaluation metrics will be available in `result.txt`.
 
 Step 13: In the zip file `30_dl_code`, I have included preprocessing and `USOD_10k` code. Preprocessing comprises color enhancement Matlab code, while `USOD_10k` contains datasets, pretrained models, and Python files for evaluation, testing, and training.
 
+## Contributors
+
+Thanks to these wonderful people for their contributions:
+
+
+- [lakshmannarendra](https://github.com/lakshmannarendra)
+- [apraneeth20](https://github.com/apraneeth20)
+  
+
 ---
 
